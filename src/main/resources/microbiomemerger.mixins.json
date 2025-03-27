@@ -1,12 +1,15 @@
 {
   "required": true,
-  "package": "com.example.examplemod.mixin",
+  "package": "com.example.microbiomemerger.mixin",
   "compatibilityLevel": "JAVA_16",
   "refmap": "examplemod.refmap.json",
   "mixins": [
   ],
   "client":[
-    "ExampleMixin"
+    "MultiNoiseBiomeSourceMixin"
+  ],
+  "server": [
+    "MultiNoiseBiomeSourceMixin"
   ],
   "injectors": {
     "defaultRequire": 1
