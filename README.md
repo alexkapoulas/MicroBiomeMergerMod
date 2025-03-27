@@ -1,8 +1,8 @@
-# MicroBiomeRemover Mod
+# MicroBiomeMerger Mod
 
 ## Overview
 
-**MicroBiomeRemover** is a Minecraft Forge mod for version 1.20.1 that dynamically eliminates micro biomes during world generation. By merging small biomes into adjacent larger ones, it enhances the natural feel of the game's terrain.
+**MicroBiomeMerger** is a Minecraft Forge mod for version 1.20.1 that dynamically eliminates micro biomes during world generation. By merging small biomes into adjacent larger ones, it enhances the natural feel of the game's terrain.
 
 ## Features
 
